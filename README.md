@@ -1,1 +1,1 @@
-#repositorio nuevo con ram amain
+#repositorio nuevo con rama main
